@@ -109,8 +109,8 @@ export function ContactSection() {
 
             <div className="space-y-6">
               {[
-                { icon: Mail, label: "Email", value: "ragul@example.com", href: "mailto:ragul@example.com" },
-                { icon: Phone, label: "Phone", value: "+91 12345 67890", href: "tel:+911234567890" },
+                { icon: Mail, label: "Email", value: "ragul@example.com", href: "mailto:ragulviji20062@gmail.com" },
+                { icon: Phone, label: "Phone", value: "+91 12345 67890", href: "tel:+918838713033" },
                 { icon: MapPin, label: "Location", value: "Gobi, Tamil Nadu, India", href: "#" }
               ].map((item, index) => (
                 <motion.a
